@@ -95,4 +95,4 @@ Python · pandas · scikit-learn · LightGBM · XGBoost · Optuna · skrub · sk
 
 ## Author
 
-**Noé Payan**, engineering student in Data & Artificial Intelligence, ESILV (Paris)
+**Noé Payan, Joe Vaseekaran, Lisandru Zuccarelli**, engineering student in Data & Artificial Intelligence, ESILV (Paris)
