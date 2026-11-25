@@ -1,0 +1,23 @@
+# Competition data (not redistributed, see data/README.md)
+data/*.csv
+data/*.html
+
+# Generated outputs
+submissions/
+oof/
+logs/
+
+# Skore Hub credentials
+.skore
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
